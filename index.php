@@ -1,5 +1,7 @@
 <h1>Bem vindo alunos da tuma 15C</h1>
 
+<h1>Tudo o que for fazer, tem que ter entrega - Poderosissimo Ninja<h1>
+
 <div>Alteração do repo do torne-se um programador</div>
 
 <h3>
