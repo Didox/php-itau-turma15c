@@ -2,6 +2,7 @@
 
 <h1>Tudo o que for fazer, tem que ter entrega - Poderosissimo Ninja<h1>
 
+<div>Alteração do repo do torne-se um programador</div>
 
 <h3>
   O resultado do calculo é de:
@@ -23,4 +24,8 @@
 
 <h3>
   Guilherme Forte
+</h3>
+
+<h3>
+  Patricia Nogueira
 </h3>
